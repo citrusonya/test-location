@@ -1,5 +1,5 @@
 # Form For Creating "Test Location"
-![screenshot](https://github.com/citrusonya/test-location/blob/main/gif.gif)
+![screenshot](https://github.com/citrusonya/test-location/blob/master/gif.gif)
 ____
 
 :mag_right: Filtering of locations, environments and servers
